@@ -54,7 +54,7 @@ def modify_xml_files(directory):
 # 示例用法
 if __name__ == "__main__":
     # 指定包含 XML 文件的目录路径
-    xml_directory = "/industai_data/dlg/工程器械/挂载/datasets/测试集与训练集/背景复杂样本"
+    xml_directory = "  "
 
     # 调用函数修改 XML 文件
     modify_xml_files(xml_directory)
